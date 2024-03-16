@@ -14,6 +14,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+<br>
+<br>
+
 <a href="https://www.instagram.com/lipe_wendler?igsh=MXc5NWlseTB6emRjMw%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
 </a>
