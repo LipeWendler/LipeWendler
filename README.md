@@ -1,7 +1,4 @@
 <h1>Olá! Prazer em conhece-los, me chamo Felipe Wendler.</h1>
-
-<hr>
-
 <a href="https://github.com/LipeWendler/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=LipeWendler&theme=gruvbox&showicons=true"/>
 </a>
