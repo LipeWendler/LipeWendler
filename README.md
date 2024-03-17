@@ -1,4 +1,4 @@
-<h1>Salve, Salve!! Sejam bem vindos, me chamo Felipe.</h1>
+<h1>Olá! Prazer em conhece-los, me chamo Felipe Wendler.</h1>
 
 <hr>
 
