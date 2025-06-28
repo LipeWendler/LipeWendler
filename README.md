@@ -1,4 +1,4 @@
-<h1>Olá! Prazer em conhece-los, me chamo Felipe Wendler.</h1>
+<h1>You can call me Wendler.</h1>
 <a href="https://github.com/LipeWendler/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=LipeWendler&theme=gruvbox&showicons=true"/>
 </a>
@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <hr>
-<h3>📚Currently studying about front-end and back-end WebDeveloment.</h3>
+<h3>📚Currently developing a full-stack platform for Infoproducts.</h3>
 <hr>
 <a href="https://www.instagram.com/lipe_wendler?igsh=MXc5NWlseTB6emRjMw%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
